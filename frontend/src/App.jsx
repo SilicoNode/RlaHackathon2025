@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './App.css'
 
-const API_URL = 'https://rlahackathon2025-backend.onrender.com/'
+const API_URL = 'https://rlahackathon2025-backend.onrender.com/predict'
 
 const initialFormData = {
   Soil_Moisture: '',
